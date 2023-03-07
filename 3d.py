@@ -203,10 +203,10 @@ for i in range(5):
 
 x = 0
 z = 1
-point_1_o = (20,15,10) #x z y
-point_2_o = (-20,15,10)
-point_3_o = (-20,-15,10)
-point_4_o = (20,-15,10)
+point_1_o = (20,15) #x z 
+point_2_o = (-20,15)
+point_3_o = (-20,-15)
+point_4_o = (20,-15)
 
 
 y = 10 # our y prespective
