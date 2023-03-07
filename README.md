@@ -5,4 +5,9 @@ This project was aimed to visualize locus of a curver on a 2d plane and then fur
 The working is very simple. The program accepts list of points as argument and plots them on the screen. These points can be calculated by 
 various means. 
 
-The 3d cube is made not via complicated matric multiplications bur by using the concept of one point prespective 
+The 3d cube is made not via complicated matric multiplications bur by using the concept of one point prespective.
+
+### RUNNING THE FILE #####
+
+The main file is named as 3d and one can run it as any odinary python program however it is reccomended to run the file in the terminal for
+better results
